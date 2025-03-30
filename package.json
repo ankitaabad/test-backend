@@ -1,0 +1,11 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pushShared": "git subtree push --prefix=shared https://github.com/ankitaabad/test-backend.git main"
+  },
+  "author": "",
+  "license": "ISC"
+}
