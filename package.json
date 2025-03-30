@@ -7,5 +7,11 @@
     "pushShared": "git subtree push --prefix=shared https://github.com/ankitaabad/test-shared.git main"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@orpc/arktype": "^0.51.0",
+    "@orpc/contract": "^0.51.0",
+    "@orpc/server": "^0.51.0",
+    "arktype": "^2.1.15"
+  }
 }
