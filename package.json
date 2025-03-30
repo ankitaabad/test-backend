@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pushShared": "git subtree push --prefix=shared https://github.com/ankitaabad/test-backend.git main"
+    "pushShared": "git subtree push --prefix=shared https://github.com/ankitaabad/test-shared.git main"
   },
   "author": "",
   "license": "ISC"
